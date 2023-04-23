@@ -10,15 +10,16 @@
         "**/*.uf2": true
     },
     "files.associations": {
-        "*.h": "c",
-        "*.c": "c",
-        "*.inc": "c",
-        "*.cpp": "cpp",
-        "*.hpp": "cpp",
-        "xstddef": "c",
-        "type_traits": "c",
-        "utility": "c",
-        "ranges": "c"
+      "*.h": "c",
+      "*.c": "c",
+      "*.inc": "c",
+      "*.cpp": "cpp",
+      "*.hpp": "cpp",
+      "xstddef": "c",
+      "type_traits": "c",
+      "utility": "c",
+      "ranges": "c",
+      "future": "c"
     },
     "[markdown]": {
         "editor.trimAutoWhitespace": false,
